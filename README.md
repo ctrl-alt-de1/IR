@@ -61,4 +61,6 @@ It is a personal repository with handy cheatsheets to use when inspecting a mach
     
   # Windows
 
+    ![Alt text](/ctrl-alt-de1/IR/blob/master/Screen%20Shot%202017-09-30%20at%204.45.32%20PM.png?raw=true "Optional Title")
+
 
