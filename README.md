@@ -58,3 +58,7 @@ It is a personal repository with handy cheatsheets to use when inspecting a mach
         
     /etc/inetd.conf
     /etc/xinetd.conf, /etc/xinetd.d
+    
+  # Windows
+
+
